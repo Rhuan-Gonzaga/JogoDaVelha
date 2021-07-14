@@ -20,7 +20,7 @@ function escolhido(evento){
         
         setTimeout(() => {
             alert("O Jogo Acabou! O jogador vencedor foi " + Number(jogadorVez+1))
-        },10)
+        },15)
     }
 
     atualizar();
