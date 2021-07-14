@@ -1,0 +1,127 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family: Helvetica;
+}
+
+h1{
+    
+    margin-top: 0;
+    background-color: beige;
+    padding: 15px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-fill-color: rgb(218, 59, 2);
+    font-size: 60px;
+    
+   
+}
+
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    border: 1px solid gray;
+    display: inline-block;
+}
+
+.o{
+    position: relative;
+}
+
+.o:after {
+    position: absolute;
+    content: "\2B55";
+    font-size: 50px;
+    line-height: 100px;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.x{
+    position: relative;
+}
+
+.x:after {
+    position: absolute;
+    content: "\274C";
+    font-size: 50px;
+    line-height: 100px;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+button{
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color:rgb(218, 59, 2);
+    color: beige;
+    font-size: 18px;
+}
+
+@media only screen and (min-width : 320px) and (max-width:415px) {
+
+    body{
+        text-align: center;
+    }
+   
+    .square{
+        width: 50px;
+        height:50px;
+        background-color: beige;
+        border: 1px solid gray;
+        display: inline-block;
+    }
+
+    .o:after {
+        position: absolute;
+        content: "\2B55";
+        font-size: 25px;
+        line-height: 50px;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    
+    
+
+    .x:after {
+        position: absolute;
+        content: "\274C";
+        font-size: 25px;
+        line-height: 50px;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+
+    h1{
+        margin-top: 0;
+        background-color: beige;
+        padding: 15px;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        -webkit-text-fill-color: rgb(218, 59, 2);
+        font-size: 30px;
+        display: 100%;
+    }
+
+    button{
+        padding-top: 5px;
+        padding: 10px;
+        border-radius: 5px;
+        border-style: none;
+        background-color:rgb(218, 59, 2);
+        color: beige;
+        font-size: 15px;
+    }
+  }
