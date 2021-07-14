@@ -12,6 +12,6 @@ Aquele velho e famoso jogo da velha, como o nome já diz.
 ### 🚀 Tecnologia
 
 - <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" width="30px" align="center"> HTML
-- <img src="jogoDaVelha/logos/css.png" width="30px" align="center"> CSS
-- <img src="jogoDaVelha/logos/javascript.png" width="30px" align="center"> JavaScript
+- <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" width="30px" align="center"> CSS
+- <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" width="30px" align="center"> JavaScript
 
