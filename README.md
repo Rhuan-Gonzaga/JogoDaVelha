@@ -2,16 +2,16 @@
 ## Demo :joystick:	
 ![imagem projeto](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/velha.png)
 
-link para a página do projeto: 
+## ℹ Sobre o projeto:
+Aquele velho e famoso jogo da velha, como o nome já diz..
 
-#Sobre o projeto :brain:<br>
-Aquele velho e famoso jogo da velha, como o nome já diz.
+### Credits
+ Este projeto é realizado no curso Desenvolvimento Web - Programador Br [Desenvolvimento Web - Programador Br](https://programadorbr.com/).
+(Implementei algumas novas funções como jogar novamente, aparencia dos simbolos e desing da página
 
-#Créditos<br>
-<link href="https://programadorbr.com/">Este projeto é realizado no curso Desenvolvimento Web - Programador Br</link>
-(Implementei algumas novas funções como jogar novamente, aparencia dos simbolos e desing da página)
+## 🚀 Tecnologia
 
-#Tecnologias :rocket:<br>
-- ![imagem projeto](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png) HTML
-- ![imagem projeto](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png) CSS
-- ![imagem projetos](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png) JAVASCRIPT
+- <img src=".github/logos/html.png" width="30px" align="center"> HTML
+- <img src=".github/logos/css.png" width="30px" align="center"> CSS
+- <img src=".github/logos/javascript.png" width="30px" align="center"> JavaScript
+
