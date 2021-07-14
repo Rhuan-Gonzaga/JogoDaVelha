@@ -2,8 +2,7 @@
 ## Demo :joystick:	
 ![imagem projeto](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/velha.png)
 
-Link da página do projeto: 
-
+Link da página do projeto: https://jogo-da-velhinha.netlify.app/
 ## :brain: Sobre o projeto:
 Aquele velho e famoso jogo da velha, como o nome já diz.
 
