@@ -2,11 +2,11 @@
 ## Demo :joystick:	
 ![imagem projeto](https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/velha.png)
 
-## ℹ Sobre o projeto:
+## :brain: Sobre o projeto:
 Aquele velho e famoso jogo da velha, como o nome já diz..
 
 ### Credits
- Este projeto é realizado no curso Desenvolvimento Web - Programador Br [Desenvolvimento Web - Programador Br](https://programadorbr.com/).
+ Este projeto é realizado no curso Desenvolvimento Web - Programador Br [Desenvolvimento Web - Programador Br](https://programadorbr.com/).<br>
 (Implementei algumas novas funções como jogar novamente, aparencia dos simbolos e desing da página
 
 ## 🚀 Tecnologia
