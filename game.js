@@ -57,19 +57,6 @@ function vencedor(){
         }
     }
 
-    if (quadro[0] != ''
-            && quadro[1] != '' 
-            && quadro[2] != '' 
-            && quadro[3] != '' 
-            && quadro[4] != '' 
-            && quadro[5] != '' 
-            && quadro[6] != '' 
-            && quadro[7] != '' 
-            && quadro[8] != '') {
-                
-                empate = true;
-                
-         }
 
     return false;
 
